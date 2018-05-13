@@ -13,6 +13,6 @@ bazel-bin/examples/greeter_server/<your arch>/greeter_server
 
 Run a client
 ```
-bazel-bin/examples/greeter_server/<your arch>/greeter_client
+bazel-bin/examples/greeter_client/<your arch>/greeter_client
 ```
 
